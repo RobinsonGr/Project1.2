@@ -1,5 +1,5 @@
 body{
-    color: deepskyblue;
+    color: rgb(255, 0, 0);
     Text-align: center;
     font-family: arial;
     font-size: 16;
@@ -14,7 +14,7 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(207, 25, 25);
     margin: 0 auto;
 
 
@@ -27,6 +27,7 @@ body{
     font-size: 20px;
 
 }
+
 
 #container
 
@@ -45,5 +46,5 @@ body{
 
 
     font-size: 20px;
-    
+
 }
